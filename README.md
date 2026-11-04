@@ -14,6 +14,24 @@ comp_ml_project/
   docs/                        the pipeline handoff (what was built, lessons) and SNAPSHOT_INFO.txt (when, sweep state)
 ```
 
+
+## Large files are not in this repo
+
+GitHub refuses files over 100 MB, so six files are shared separately —
+download link and where each one goes: see `data/LARGE_FILES.md`.
+
+| file | size | why it matters |
+|---|---|---|
+| `data/csv/films.csv` | 327 MB | the spine: one row per film, every other file joins to it on `tmdb_id` |
+| `data/csv/events.csv` | 114 MB | every TMDb release date |
+| `data/csv/events_reconciled.csv` | 156 MB | release dates + Box Office Mojo grosses |
+| `data/csv/01_events_tmdb_compat.csv` | 140 MB | the same in the comp engine's legacy layout |
+| `data/db/release_events.db` | 4.7 GB | the full SQLite database (optional) |
+| `inputs/imdb.db` | 1.8 GB | IMDb metadata input (optional) |
+
+Everything else in `data/csv/` is in the repo and works on its own; you need
+`films.csv` for most analyses and the two events files for anything date-based.
+
 ## How the data was made (short version)
 
 The unit is a film identified by `tmdb_id` (TMDb) and `tconst` (IMDb); every file
