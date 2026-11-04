@@ -1,6 +1,6 @@
 # Files not in this repo (over GitHub's 100 MB limit)
 
-Download from: <paste shared-folder link here>
+Download from: https://drive.google.com/drive/folders/1B2CqUSIBBNojdPRIyQgzAKUT9sFg3SsI?usp=share_link
 
 | file | size | put it at |
 |---|---|---|
