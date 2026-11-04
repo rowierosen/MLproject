@@ -1,0 +1,896 @@
+[
+ {
+  "qid": "Q42369",
+  "label": "Cannes Film Festival",
+  "country": "FR",
+  "month": 5,
+  "aliases": [
+   "Cannes",
+   "Festival de Cannes",
+   "Cannes International Film Festival",
+   "Festival International du Film de Cannes",
+   "カンヌ国際映画祭",
+   "칸 영화제",
+   "Filmfestspiele von Cannes"
+  ],
+  "sections": [
+   "In Competition",
+   "Un Certain Regard",
+   "Out of Competition",
+   "Cannes Premiere",
+   "Special Screenings",
+   "La Cinef",
+   "Cannes Classics",
+   "Directors' Fortnight",
+   "Critics' Week",
+   "Midnight Screenings"
+  ],
+  "editions": [
+   {
+    "num": 72,
+    "year": 2019,
+    "start": "2019-05-14",
+    "end": "2019-05-25",
+    "precision": "exact"
+   },
+   {
+    "num": 76,
+    "year": 2023,
+    "start": "2023-05-16",
+    "end": "2023-05-27",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q260979",
+  "label": "Sydney Film Festival",
+  "country": "AU",
+  "month": 6,
+  "aliases": [
+   "Sydney",
+   "SFF"
+  ],
+  "sections": [
+   "Official Competition"
+  ],
+  "editions": [
+   {
+    "num": 66,
+    "year": 2019,
+    "start": "2019-06-05",
+    "end": "2019-06-16",
+    "precision": "exact"
+   },
+   {
+    "num": 70,
+    "year": 2023,
+    "start": "2023-06-07",
+    "end": "2023-06-18",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q543565",
+  "label": "Munich International Film Festival",
+  "country": "DE",
+  "month": 6,
+  "aliases": [
+   "Filmfest Munchen",
+   "Filmfest München",
+   "Munich Film Festival",
+   "Munchen",
+   "Munich"
+  ],
+  "sections": [
+   "CineMasters",
+   "CineVision",
+   "CineRebels",
+   "Spotlight"
+  ],
+  "editions": [
+   {
+    "num": 37,
+    "year": 2019,
+    "start": "2019-06-27",
+    "end": "2019-07-06",
+    "precision": "exact"
+   },
+   {
+    "num": null,
+    "year": 2023,
+    "start": "2023-06-23",
+    "end": "2023-07-01",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q332869",
+  "label": "Karlovy Vary International Film Festival",
+  "country": "CZ",
+  "month": 7,
+  "aliases": [
+   "Karlovy Vary",
+   "KVIFF"
+  ],
+  "sections": [
+   "Crystal Globe Competition",
+   "Horizons",
+   "Proxima"
+  ],
+  "editions": [
+   {
+    "num": 54,
+    "year": 2019,
+    "start": "2019-06-28",
+    "end": "2019-07-06",
+    "precision": "exact"
+   },
+   {
+    "num": 57,
+    "year": 2023,
+    "start": "2023-06-30",
+    "end": "2023-07-08",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q502053",
+  "label": "Locarno Film Festival",
+  "country": "CH",
+  "month": 8,
+  "aliases": [
+   "Locarno",
+   "Festival del film Locarno",
+   "Locarno International Film Festival"
+  ],
+  "sections": [
+   "Piazza Grande",
+   "Concorso internazionale",
+   "Cineasti del presente"
+  ],
+  "editions": [
+   {
+    "num": 72,
+    "year": 2019,
+    "start": "2019-08-07",
+    "end": "2019-08-17",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q2402350",
+  "label": "Telluride Film Festival",
+  "country": "US",
+  "month": 8,
+  "aliases": [
+   "Telluride",
+   "TFF"
+  ],
+  "sections": [
+   "the SHOW"
+  ],
+  "editions": [
+   {
+    "num": 46,
+    "year": 2019,
+    "start": "2019-08-30",
+    "end": "2019-09-02",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q390018",
+  "label": "Toronto International Film Festival",
+  "country": "CA",
+  "month": 9,
+  "aliases": [
+   "TIFF",
+   "Toronto",
+   "トロント国際映画祭"
+  ],
+  "sections": [
+   "Special Presentations",
+   "Gala Presentations",
+   "Platform",
+   "Discovery",
+   "Midnight Madness",
+   "Wavelengths",
+   "Contemporary World Cinema"
+  ],
+  "editions": [
+   {
+    "num": 44,
+    "year": 2019,
+    "start": "2019-09-05",
+    "end": "2019-09-15",
+    "precision": "exact"
+   },
+   {
+    "num": 48,
+    "year": 2023,
+    "start": "2023-09-07",
+    "end": "2023-09-17",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q5434188",
+  "label": "Fantastic Fest",
+  "country": "US",
+  "month": 9,
+  "aliases": [
+   "Fantastic Festival"
+  ],
+  "sections": [
+   "Main Competition",
+   "Next Wave",
+   "Horror"
+  ],
+  "editions": [
+   {
+    "num": null,
+    "year": 2019,
+    "start": "2019-09-19",
+    "end": "2019-09-26",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q622423",
+  "label": "San Sebastián International Film Festival",
+  "country": "ES",
+  "month": 9,
+  "aliases": [
+   "San Sebastian",
+   "San Sebastián",
+   "Donostia",
+   "Zinemaldia",
+   "SSIFF"
+  ],
+  "sections": [
+   "Official Selection",
+   "Perlak",
+   "Pearls",
+   "New Directors",
+   "Horizontes Latinos",
+   "Zabaltegi"
+  ],
+  "editions": [
+   {
+    "num": 67,
+    "year": 2019,
+    "start": "2019-09-20",
+    "end": "2019-09-28",
+    "precision": "exact"
+   },
+   {
+    "num": 71,
+    "year": 2023,
+    "start": "2023-09-22",
+    "end": "2023-09-30",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q2005904",
+  "label": "Vancouver International Film Festival",
+  "country": "CA",
+  "month": 9,
+  "aliases": [
+   "Vancouver",
+   "VIFF"
+  ],
+  "sections": [
+   "Galas & Special Presentations",
+   "People's Choice"
+  ],
+  "editions": [
+   {
+    "num": 38,
+    "year": 2019,
+    "start": "2019-09-26",
+    "end": "2019-10-11",
+    "precision": "exact"
+   },
+   {
+    "num": 42,
+    "year": 2023,
+    "start": "2023-09-28",
+    "end": "2023-10-08",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q25648",
+  "label": "New York Film Festival",
+  "country": "US",
+  "month": 9,
+  "aliases": [
+   "NYFF",
+   "New York"
+  ],
+  "sections": [
+   "Main Slate",
+   "Spotlight",
+   "Currents"
+  ],
+  "editions": [
+   {
+    "num": 57,
+    "year": 2019,
+    "start": "2019-09-27",
+    "end": "2019-10-13",
+    "precision": "exact"
+   },
+   {
+    "num": 61,
+    "year": 2023,
+    "start": "2023-09-29",
+    "end": "2023-10-15",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q3070482",
+  "label": "Philadelphia Film Festival",
+  "country": "US",
+  "month": 10,
+  "aliases": [
+   "Philadelphia",
+   "PFF"
+  ],
+  "sections": [
+   "Masters of Cinema"
+  ],
+  "editions": [
+   {
+    "num": 28,
+    "year": 2019,
+    "start": "2019-10-17",
+    "end": "2019-10-27",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q1666554",
+  "label": "International Film Festival Rotterdam",
+  "country": "NL",
+  "month": 1,
+  "aliases": [
+   "Rotterdam",
+   "IFFR"
+  ],
+  "sections": [
+   "Tiger Competition",
+   "Big Screen Competition"
+  ],
+  "editions": [
+   {
+    "num": null,
+    "year": 2020,
+    "start": "2020-01-22",
+    "end": "2020-02-02",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q3512157",
+  "label": "Glasgow Film Festival",
+  "country": "GB",
+  "month": 2,
+  "aliases": [
+   "Glasgow",
+   "GFF"
+  ],
+  "sections": [],
+  "editions": [
+   {
+    "num": null,
+    "year": 2020,
+    "start": "2020-02-26",
+    "end": "2020-03-08",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q1374050",
+  "label": "Palm Springs International Film Festival",
+  "country": "US",
+  "month": 1,
+  "aliases": [
+   "Palm Springs",
+   "PSIFF"
+  ],
+  "sections": [
+   "Modern Masters"
+  ],
+  "editions": [
+   {
+    "num": 35,
+    "year": 2024,
+    "start": "2024-01-04",
+    "end": "2024-01-14",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q5252683",
+  "label": "Melbourne International Film Festival",
+  "country": "AU",
+  "month": 8,
+  "aliases": [
+   "Melbourne",
+   "MIFF"
+  ],
+  "sections": [],
+  "editions": []
+ },
+ {
+  "qid": "Q482633",
+  "label": "Busan International Film Festival",
+  "country": "KR",
+  "month": 10,
+  "aliases": [
+   "Busan",
+   "Pusan",
+   "BIFF",
+   "부산국제영화제"
+  ],
+  "sections": [
+   "Gala Presentation",
+   "A Window on Asian Cinema",
+   "New Currents",
+   "Icons",
+   "World Cinema"
+  ],
+  "editions": [
+   {
+    "num": 28,
+    "year": 2023,
+    "start": "2023-10-04",
+    "end": "2023-10-13",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q1323689",
+  "label": "BFI London Film Festival",
+  "country": "GB",
+  "month": 10,
+  "aliases": [
+   "London Film Festival",
+   "LFF",
+   "BFI London",
+   "London"
+  ],
+  "sections": [
+   "Love",
+   "Debate",
+   "Dare",
+   "Laugh",
+   "Thrill",
+   "Cult",
+   "Journey",
+   "Create",
+   "Experimenta",
+   "Headline Gala"
+  ],
+  "editions": [
+   {
+    "num": 63,
+    "year": 2019,
+    "start": "2019-10-02",
+    "end": "2019-10-13",
+    "precision": "exact"
+   },
+   {
+    "num": 67,
+    "year": 2023,
+    "start": "2023-10-04",
+    "end": "2023-10-15",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q1071936",
+  "label": "Chicago International Film Festival",
+  "country": "US",
+  "month": 10,
+  "aliases": [
+   "Chicago",
+   "CIFF"
+  ],
+  "sections": [
+   "Special Presentations",
+   "OutLook Competition",
+   "International Feature Competition"
+  ],
+  "editions": [
+   {
+    "num": 59,
+    "year": 2023,
+    "start": "2023-10-11",
+    "end": "2023-10-22",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q158428",
+  "label": "Stockholm International Film Festival",
+  "country": "SE",
+  "month": 11,
+  "aliases": [
+   "Stockholm"
+  ],
+  "sections": [],
+  "editions": [
+   {
+    "num": 34,
+    "year": 2023,
+    "start": "2023-11-08",
+    "end": "2023-11-19",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q1576451",
+  "label": "Thessaloniki International Film Festival",
+  "country": "GR",
+  "month": 11,
+  "aliases": [
+   "Thessaloniki",
+   "TIFF Thessaloniki"
+  ],
+  "sections": [
+   "Special Screenings"
+  ],
+  "editions": [
+   {
+    "num": 64,
+    "year": 2023,
+    "start": "2023-11-02",
+    "end": "2023-11-12",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q609508",
+  "label": "Vienna International Film Festival",
+  "country": "AT",
+  "month": 10,
+  "aliases": [
+   "Viennale",
+   "Vienna"
+  ],
+  "sections": [
+   "Features"
+  ],
+  "editions": [
+   {
+    "num": null,
+    "year": 2023,
+    "start": "2023-10-19",
+    "end": "2023-10-31",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q2908669",
+  "label": "Haifa International Film Festival",
+  "country": "IL",
+  "month": 9,
+  "aliases": [
+   "Haifa"
+  ],
+  "sections": [],
+  "editions": [
+   {
+    "num": 39,
+    "year": 2023,
+    "start": "2023-09-28",
+    "end": "2023-10-07",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q7013706",
+  "label": "New York Lesbian, Gay, Bisexual, & Transgender Film Festival",
+  "country": "US",
+  "month": 10,
+  "aliases": [
+   "NewFest"
+  ],
+  "sections": [
+   "International Centerpiece"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q3070714",
+  "label": "Morelia International Film Festival",
+  "country": "MX",
+  "month": 10,
+  "aliases": [
+   "Morelia",
+   "FICM"
+  ],
+  "sections": [],
+  "editions": []
+ },
+ {
+  "qid": "Q430897",
+  "label": "Hawaii International Film Festival",
+  "country": "US",
+  "month": 10,
+  "aliases": [
+   "Hawaii",
+   "Hawai'i",
+   "HIFF"
+  ],
+  "sections": [
+   "Spotlight on Japan"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q7413592",
+  "label": "San Diego Asian Film Festival",
+  "country": "US",
+  "month": 11,
+  "aliases": [
+   "San Diego Asian",
+   "SDAFF"
+  ],
+  "sections": [
+   "Masters"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q3070484",
+  "label": "Newport Beach Film Festival",
+  "country": "US",
+  "month": 10,
+  "aliases": [
+   "Newport Beach",
+   "NBFF"
+  ],
+  "sections": [],
+  "editions": [
+   {
+    "num": 24,
+    "year": 2023,
+    "start": "2023-10-12",
+    "end": "2023-10-19",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q5692837",
+  "label": "Heartland Film Festival",
+  "country": "US",
+  "month": 10,
+  "aliases": [
+   "Heartland",
+   "Heartland International Film Festival"
+  ],
+  "sections": [],
+  "editions": [
+   {
+    "num": null,
+    "year": 2023,
+    "start": "2023-10-05",
+    "end": "2023-10-15",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q3070535",
+  "label": "Festival du nouveau cinéma",
+  "country": "CA",
+  "month": 10,
+  "aliases": [
+   "Festival du nouveau cinema",
+   "FNC",
+   "Nouveau Cinema"
+  ],
+  "sections": [
+   "Focus"
+  ],
+  "editions": [
+   {
+    "num": 52,
+    "year": 2023,
+    "start": "2023-10-04",
+    "end": "2023-10-15",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q975945",
+  "label": "Sitges Film Festival",
+  "country": "ES",
+  "month": 10,
+  "aliases": [
+   "Sitges",
+   "Festival de Sitges"
+  ],
+  "sections": [
+   "Official Competition",
+   "Òrbita",
+   "Midnight X-Treme",
+   "Anima't",
+   "Panorama",
+   "Sitges Documenta"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q17075409",
+  "label": "Mumbai Film Festival",
+  "country": "IN",
+  "month": 10,
+  "aliases": [
+   "MAMI",
+   "Jio MAMI",
+   "Mumbai Film Festival"
+  ],
+  "sections": [],
+  "editions": [
+   {
+    "num": null,
+    "year": 2023,
+    "start": "2023-10-27",
+    "end": "2023-11-05",
+    "precision": "exact"
+   }
+  ]
+ },
+ {
+  "qid": "Q1666555",
+  "label": "International Film Festival of Kerala",
+  "country": "IN",
+  "month": 12,
+  "aliases": [
+   "Kerala",
+   "IFFK"
+  ],
+  "sections": [
+   "Masterminds"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q1043431",
+  "label": "Tokyo International Film Festival",
+  "country": "JP",
+  "month": 10,
+  "aliases": [
+   "Tokyo",
+   "TIFF Tokyo",
+   "東京国際映画祭"
+  ],
+  "sections": [],
+  "editions": []
+ },
+ {
+  "qid": "Q130871",
+  "label": "Berlin International Film Festival",
+  "country": "DE",
+  "month": 2,
+  "aliases": [
+   "Berlinale",
+   "Berlin",
+   "ベルリン国際映画祭"
+  ],
+  "sections": [
+   "Competition",
+   "Panorama",
+   "Forum",
+   "Encounters",
+   "Generation"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q49024",
+  "label": "Venice Film Festival",
+  "country": "IT",
+  "month": 9,
+  "aliases": [
+   "Venice",
+   "Mostra",
+   "Venezia",
+   "Venice International Film Festival"
+  ],
+  "sections": [
+   "Venezia",
+   "Orizzonti",
+   "Out of Competition"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q189887",
+  "label": "Sundance Film Festival",
+  "country": "US",
+  "month": 1,
+  "aliases": [
+   "Sundance"
+  ],
+  "sections": [
+   "U.S. Dramatic Competition",
+   "World Cinema Dramatic",
+   "Premieres",
+   "Midnight",
+   "NEXT"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q55122717",
+  "label": "South by Southwest Film Festival",
+  "country": "US",
+  "month": 3,
+  "aliases": [
+   "SXSW",
+   "South by Southwest"
+  ],
+  "sections": [
+   "Headliners",
+   "Midnighters"
+  ],
+  "editions": []
+ },
+ {
+  "qid": "Q853325",
+  "label": "Tribeca Festival",
+  "country": "US",
+  "month": 6,
+  "aliases": [
+   "Tribeca",
+   "Tribeca Film Festival"
+  ],
+  "sections": [],
+  "editions": []
+ },
+ {
+  "qid": "Q3066295",
+  "label": "Fantasia International Film Festival",
+  "country": "CA",
+  "month": 7,
+  "aliases": [
+   "Fantasia"
+  ],
+  "sections": [
+   "Cheval Noir",
+   "New Flesh"
+  ],
+  "editions": []
+ }
+]

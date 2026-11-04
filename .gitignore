@@ -1,0 +1,10 @@
+# Too big for GitHub (100 MB per-file limit) -- shared via the link in data/LARGE_FILES.md
+data/db/
+inputs/imdb.db
+data/csv/films.csv
+data/csv/events_reconciled.csv
+data/csv/01_events_tmdb_compat.csv
+data/csv/events.csv
+data/csv/awards_reset_*.csv
+__pycache__/
+.DS_Store
